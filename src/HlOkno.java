@@ -9,7 +9,7 @@ public class HlOkno extends JFrame {
 
         ZakladniPanel panel1=new ZakladniPanel();
         add(panel1);
-
+        setVisible(true);
 
     }
 

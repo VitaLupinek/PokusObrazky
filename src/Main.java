@@ -7,7 +7,7 @@ public class Main {
             public void run() {
 //                new MujFrame();
                 HlOkno hlOkno= new HlOkno();
-                hlOkno.setVisible(true);
+//                hlOkno.setVisible(true);
             }
         });
 
