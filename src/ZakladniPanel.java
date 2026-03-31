@@ -6,6 +6,7 @@ class ZakladniPanel extends JPanel {
     private String SOUBOR_POZADI="pozadi1.jpg";
     add
 
+
     private Image image;
     private Postavicka postavicka;
 
